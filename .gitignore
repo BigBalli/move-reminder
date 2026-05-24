@@ -1,0 +1,7 @@
+# compiled overlay (built on install)
+move-reminder-overlay
+*.o
+.build/
+
+# macOS
+.DS_Store
